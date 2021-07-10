@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Calculator/static/css/main.573e1275.chunk.css",
+    "main.js": "/React-Calculator/static/js/main.275644cd.chunk.js",
+    "main.js.map": "/React-Calculator/static/js/main.275644cd.chunk.js.map",
+    "runtime-main.js": "/React-Calculator/static/js/runtime-main.0ae0f0a2.js",
+    "runtime-main.js.map": "/React-Calculator/static/js/runtime-main.0ae0f0a2.js.map",
+    "static/js/2.c045281c.chunk.js": "/React-Calculator/static/js/2.c045281c.chunk.js",
+    "static/js/2.c045281c.chunk.js.map": "/React-Calculator/static/js/2.c045281c.chunk.js.map",
+    "index.html": "/React-Calculator/index.html",
+    "static/css/main.573e1275.chunk.css.map": "/React-Calculator/static/css/main.573e1275.chunk.css.map",
+    "static/js/2.c045281c.chunk.js.LICENSE.txt": "/React-Calculator/static/js/2.c045281c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Calculator/static/media/RobotoMono-Thin.30914900.ttf",
+    "static/media/logo.6ce24c58.svg": "/React-Calculator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ae0f0a2.js",
+    "static/js/2.c045281c.chunk.js",
+    "static/css/main.573e1275.chunk.css",
+    "static/js/main.275644cd.chunk.js"
+  ]
+}
