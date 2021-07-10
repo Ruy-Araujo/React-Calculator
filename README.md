@@ -3,7 +3,7 @@
 Calculator made with react.
 
 <p align="center">
-<img src="./public/web-preview.gif" alt="Gabriel de Jesus" border="0">
+<img src="./public/web-preview.gif" alt="preview gif" border="0">
 </p>
 
 
@@ -11,6 +11,8 @@ Calculator made with react.
 It's a calculator developed in React designed to make four simple basic operations.
 
 This is a project created to apply my studies on react framework.
+
+You can see a demo [here](https://ruy-araujo.github.io/React-Calculator/).
 
 
 ## Features
