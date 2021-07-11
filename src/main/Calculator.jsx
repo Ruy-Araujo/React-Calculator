@@ -47,14 +47,14 @@ export default class Calculator extends Component {
                 case '-':
                     values[0] = values[0] - values[1]
                     break
-                case '*':
+                case '×':
                     values[0] = values[0] * values[1]
                     break
-                case '/':
+                case '÷':
                     if (values[1] === 0){
                         break 
                     } else {
-                        values[0] = values[0] - values[1]
+                        values[0] = values[0] / values[1]
                         break
                     }
                 default:
